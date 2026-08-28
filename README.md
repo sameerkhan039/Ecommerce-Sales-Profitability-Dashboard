@@ -1,6 +1,7 @@
 # Ecommerce-Sales-Profitability-Dashboard
 
 An interactive E-Commerce business dashboard built in Power Bi. Tracks revenue, quantities, customer segmentation, payment modes, and regional profitability modern UI design.
+
 ---
 
 ## Dashboard Quarter-wise Views

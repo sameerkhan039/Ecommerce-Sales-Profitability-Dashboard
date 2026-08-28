@@ -3,23 +3,21 @@
 An interactive E-Commerce business dashboard built in Power Bi. Tracks revenue, quantities, customer segmentation, payment modes, and regional profitability modern UI design.
 ---
 
-## 📊 Dashboard Quarter-wise Views
+## Dashboard Quarter-wise Views
 
 Here is how the dashboard shifts across different quarters using the slicers:
 
 ### Qtr 1 View
-![Qtr 1 Dashboard](qtr1_filename.png)
+<img width="903" height="508" alt="S1" src="https://github.com/user-attachments/assets/c7ad9f37-a17a-40d6-bada-e78c1b7e199d" />
 
 ### Qtr 2 View
-![Qtr 2 Dashboard](qtr2_filename.png)
+<img width="902" height="509" alt="S2" src="https://github.com/user-attachments/assets/1a32e4c5-29f1-4607-baa2-ababab1a165b" />
 
 ### Qtr 3 View
-![Qtr 3 Dashboard](qtr3_filename.png)
+<img width="903" height="508" alt="S3" src="https://github.com/user-attachments/assets/b62eb4d1-bc9e-4f5c-a0b7-da51f8a8363b" />
 
 ### Qtr 4 View
-![Qtr 4 Dashboard](qtr4_filename.png)<img width="903" height="508" alt="S1" src="https://github.com/user-attachments/assets/c7ad9f37-a17a-40d6-bada-e78c1b7e199d" />
-![Uploading S1.png…]()
-
+<img width="903" height="506" alt="S4" src="https://github.com/user-attachments/assets/e009e5ec-721c-43c1-9ee5-d502edf76afb" />
 
 ##  Tools & Technologies Used
 * **Power BI Desktop:** Data modeling, transformation, and interactive dashboard design.

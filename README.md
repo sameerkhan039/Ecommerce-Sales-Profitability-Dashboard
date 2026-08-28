@@ -3,6 +3,24 @@
 An interactive E-Commerce business dashboard built in Power Bi. Tracks revenue, quantities, customer segmentation, payment modes, and regional profitability modern UI design.
 ---
 
+## 📊 Dashboard Quarter-wise Views
+
+Here is how the dashboard shifts across different quarters using the slicers:
+
+### Qtr 1 View
+![Qtr 1 Dashboard](qtr1_filename.png)
+
+### Qtr 2 View
+![Qtr 2 Dashboard](qtr2_filename.png)
+
+### Qtr 3 View
+![Qtr 3 Dashboard](qtr3_filename.png)
+
+### Qtr 4 View
+![Qtr 4 Dashboard](qtr4_filename.png)<img width="903" height="508" alt="S1" src="https://github.com/user-attachments/assets/c7ad9f37-a17a-40d6-bada-e78c1b7e199d" />
+![Uploading S1.png…]()
+
+
 ##  Tools & Technologies Used
 * **Power BI Desktop:** Data modeling, transformation, and interactive dashboard design.
 * **Interactive UI/UX:** Dynamic filtering components for deep-dive analysis.
